@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://source.network">
-    <img alt="Source - decentralized data infrastructure" src="https://raw.githubusercontent.com/sourcenetwork/.github/main/assets/source-frame.png" />
-  </a>
-</p>
-
 <p align="center"><strong>Private. Portable. Verifiable.</strong></p>
 
 <p align="center">
