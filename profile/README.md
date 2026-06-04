@@ -30,11 +30,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/sourcenetwork/defradb"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/defradb-dark.png"><img alt="DefraDB" src="../assets/defradb-light.png" height="70"></picture></a><a href="https://github.com/sourcenetwork/sourcehub"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/sourcehub-dark.png"><img alt="SourceHub" src="../assets/sourcehub-light.png" height="70"></picture></a>
+  <a href="https://github.com/sourcenetwork/defradb"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/defradb-dark.png"><img alt="DefraDB" src="../assets/defradb-light.png" height="85"></picture></a><a href="https://github.com/sourcenetwork/sourcehub"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/sourcehub-dark.png"><img alt="SourceHub" src="../assets/sourcehub-light.png" height="85"></picture></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/sourcenetwork/lens"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/lensvm-dark.png"><img alt="LensVM" src="../assets/lensvm-light.png" height="70"></picture></a><a href="https://github.com/sourcenetwork/orbis-rs"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/orbis-dark.png"><img alt="Orbis" src="../assets/orbis-light.png" height="70"></picture></a>
+  <a href="https://github.com/sourcenetwork/lens"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/lensvm-dark.png"><img alt="LensVM" src="../assets/lensvm-light.png" height="85"></picture></a><a href="https://github.com/sourcenetwork/orbis-rs"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/orbis-dark.png"><img alt="Orbis" src="../assets/orbis-light.png" height="85"></picture></a>
 </div>
 
 <div align="center">
