@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/sourcenetwork/defradb"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/defradb-dark.png"><img alt="DefraDB" src="../assets/defradb-light.png" height="85"></picture></a><a href="https://github.com/sourcenetwork/sourcehub"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/sourcehub-dark.png"><img alt="SourceHub" src="../assets/sourcehub-light.png" height="85"></picture></a>
+  <a href="https://github.com/sourcenetwork/defradb"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/defradb-dark.png"><img alt="DefraDB" src="../assets/defradb-light.png" height="85"></picture></a><a href="https://github.com/sourcenetwork/vera"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/vera-dark.png"><img alt="Vera" src="../assets/vera-light.png" height="85"></picture></a>
 </div>
 
 <div align="center">
